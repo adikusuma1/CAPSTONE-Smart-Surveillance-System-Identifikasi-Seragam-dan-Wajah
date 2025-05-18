@@ -1,0 +1,5 @@
+face_recognition @ git+https://github.com/ilmamhf/face_recognition_forked.git
+Flask==3.1.0
+flask_cors==5.0.1
+numpy==1.26.4
+opencv-python==4.11.0.86
